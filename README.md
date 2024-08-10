@@ -1,0 +1,1 @@
+Este projeto é um backend para um aplicativo de lista de tarefas (To-Do) construído com Express e SQL. Ele fornece uma API RESTful para criar, ler, atualizar e excluir tarefas. Com a criação da conta e o respectivo login.
